@@ -2,7 +2,7 @@
 
 This is an ongoing project make and collect useful components for FastHTML user interfaces. 
 
-## py_tabulator.py a [tabulator.js](https://tabulator.info/) wrapper 
+## [fk_tabulator.py](./fabkit/fk_tabulator.py) a [tabulator.js](https://tabulator.info/) wrapper 
 Create tables that are sortable and support ajax reloading. Although this is mostly a js component, it's a work in progress to flush out how this can be acheived in FastHTML with python like controls on the wrappers.
 
 [demo](./py_tabulator_demo.py)
